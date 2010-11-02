@@ -1,4 +1,7 @@
 1: http://geekandpoke.typepad.com/geekandpoke/2010/10/geekpokes-list-of-best-practices-today-continuous-integration.htm
 2: http://www.accurev.com/multistage-continuous-integration.html
-3: http://blogs.msdn.com/b/mswanson/archive/2004/06/29/169058.aspx
-4: http://weblogs.asp.net/rosherove/archive/2007/09/11/scrum-is-not-enough-try-scrump.aspx
+3: http://weblogs.asp.net/rosherove/archive/2007/09/11/scrum-is-not-enough-try-scrump.aspx
+4: http://www.lean6sigma.co.nz/integrating-continuous-improvement/
+5: http://www.rebelado.com/wp-content/uploads/2008/03/foto_bacalhau.jpg
+6: 
+7: http://www.embl.org/elmi/images/denmark.gif
